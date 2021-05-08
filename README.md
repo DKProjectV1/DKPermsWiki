@@ -1,5 +1,7 @@
 Welcome to the official DKPerms repository.
 
+### **DKPerms V1 is no longer supported and maintained. Checkout the new DKPerms V5 [here](https://dkplugins.pretronic.net/dkperms/)**
+
 ### Introduction
 DKPerms is an high configurable Minecraft PermissionSystem with a lot of features and this is the official repository (Only Wiki) from the DKPerms project. You are able to integrate DKPerms in any platform, DKPerms is already running on Spigot BungeeCord and CloudNet networks.
 
